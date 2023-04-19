@@ -1,12 +1,10 @@
 # Simple linear regression
-<table>
-    <tr>
-    <td><img src="output/o1.png"></td>
-    <td><img src="output/o2.png"></td>
-    </tr>
-    </table>
----
----
+
+## Introduction
+
+In this project, we will implement a simple linear regression model to predict the yield of a plant based on the temperature.
+
+## Preprocess the data
 
 <div class="cell code" execution_count="132">
 
@@ -229,3 +227,14 @@ print(getError(xi,yi))
 </div>
 
 </div>
+
+---
+
+    <table>
+    <tr>
+    <td><img src="output/o1.png"></td>
+    <td><img src="output/o2.png"></td>
+    </tr>
+    </table>
+
+---
