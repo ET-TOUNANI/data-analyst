@@ -225,9 +225,10 @@ print(getError(xi,yi))
     7.224242424242385
 
 </div>
-
+</div>
     <div>
-         <table>
+    
+   <table>
     <tr>
     <td><img src="output/o1.png"></td>
     <td><img src="output/o2.png"></td>
