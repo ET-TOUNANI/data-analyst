@@ -228,8 +228,6 @@ print(getError(xi,yi))
 
 </div>
 
----
-
     <table>
     <tr>
     <td><img src="output/o1.png"></td>
@@ -237,4 +235,3 @@ print(getError(xi,yi))
     </tr>
     </table>
 
----
