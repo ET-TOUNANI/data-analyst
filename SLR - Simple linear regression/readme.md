@@ -226,12 +226,14 @@ print(getError(xi,yi))
 
 </div>
 
-</div>
-
-    <table>
+    <div>
+         <table>
     <tr>
     <td><img src="output/o1.png"></td>
     <td><img src="output/o2.png"></td>
     </tr>
     </table>
 
+</div>
+
+   
